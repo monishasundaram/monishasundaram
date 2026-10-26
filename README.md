@@ -69,7 +69,7 @@ I'm **Monisha**, an IT undergraduate from Erode, Tamil Nadu, exploring the world
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=monishasundaram&bg_color=0d1117&color=ff2d95&line=ff2d95&point=ffffff&area=true&area_color=ff2d95&hide_border=true" alt="contribution graph" />
+  <img src="https://ghchart.rshah.org/ff2d95/monishasundaram" alt="contribution graph" width="90%" />
 </p>
 
 ---

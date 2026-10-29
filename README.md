@@ -50,7 +50,7 @@ I'm **Monisha**, an IT undergraduate from Erode, Tamil Nadu, exploring the world
 ## contribution graph
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/monishasundaram/monishasundaram/main/profile-3d-contrib/profile-night-view.svg" alt="3D contribution graph" width="95%" />
+      <img src="https://raw.githubusercontent.com/monishasundaram/monishasundaram/main/profile-3d-contrib/lavender.svg" alt="3D contribution graph" width="95%" />
 </p>
 
 <p align="center">

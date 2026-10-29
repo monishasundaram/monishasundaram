@@ -38,60 +38,19 @@ I'm **Monisha**, an IT undergraduate from Erode, Tamil Nadu, exploring the world
 
 ## featured projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### ⛓️ [CivicVoice](https://github.com/monishasundaram/CivicVoice)
-Tamper-proof, transparent complaint system built on blockchain.
-
-<img src="https://img.shields.io/github/languages/top/monishasundaram/CivicVoice?style=flat-square&labelColor=0d1117&color=a78bfa" alt="language" />
-<img src="https://img.shields.io/github/last-commit/monishasundaram/CivicVoice?style=flat-square&labelColor=0d1117&color=7c5cd6" alt="last commit" />
-<img src="https://img.shields.io/github/stars/monishasundaram/CivicVoice?style=flat-square&labelColor=0d1117&color=c4b5fd" alt="stars" />
-
-</td>
-<td width="50%" valign="top">
-
-### 🛡️ [PhishScan](https://github.com/monishasundaram/PhishScan)
-Phishing URL analyser that checks links for threats.
-
-<img src="https://img.shields.io/github/languages/top/monishasundaram/PhishScan?style=flat-square&labelColor=0d1117&color=a78bfa" alt="language" />
-<img src="https://img.shields.io/github/last-commit/monishasundaram/PhishScan?style=flat-square&labelColor=0d1117&color=7c5cd6" alt="last commit" />
-<img src="https://img.shields.io/github/stars/monishasundaram/PhishScan?style=flat-square&labelColor=0d1117&color=c4b5fd" alt="stars" />
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🤖 [AI-DATABASE-ANALYST](https://github.com/monishasundaram/AI-DATABASE-ANALYST)
-Turns plain English into SQL for non-SQL learners.
-
-<img src="https://img.shields.io/github/languages/top/monishasundaram/AI-DATABASE-ANALYST?style=flat-square&labelColor=0d1117&color=a78bfa" alt="language" />
-<img src="https://img.shields.io/github/last-commit/monishasundaram/AI-DATABASE-ANALYST?style=flat-square&labelColor=0d1117&color=7c5cd6" alt="last commit" />
-<img src="https://img.shields.io/github/stars/monishasundaram/AI-DATABASE-ANALYST?style=flat-square&labelColor=0d1117&color=c4b5fd" alt="stars" />
-
-</td>
-<td width="50%" valign="top">
-
-### 🔍 [VulnSight-AI](https://github.com/monishasundaram/VulnSight-AI)
-AI-assisted vulnerability analysis tooling.
-
-<img src="https://img.shields.io/github/languages/top/monishasundaram/VulnSight-AI?style=flat-square&labelColor=0d1117&color=a78bfa" alt="language" />
-<img src="https://img.shields.io/github/last-commit/monishasundaram/VulnSight-AI?style=flat-square&labelColor=0d1117&color=7c5cd6" alt="last commit" />
-<img src="https://img.shields.io/github/stars/monishasundaram/VulnSight-AI?style=flat-square&labelColor=0d1117&color=c4b5fd" alt="stars" />
-
-</td>
-</tr>
-</table>
+| | Project | What it does |
+|:-:|:--|:--|
+| ⛓️ | **[CivicVoice](https://github.com/monishasundaram/CivicVoice)** | Tamper-proof, transparent complaint system built on blockchain |
+| 🛡️ | **[PhishScan](https://github.com/monishasundaram/PhishScan)** | Phishing URL analyser that checks links for threats |
+| 🤖 | **[AI-DATABASE-ANALYST](https://github.com/monishasundaram/AI-DATABASE-ANALYST)** | Turns plain English into SQL for non-SQL learners |
+| 🔍 | **[VulnSight-AI](https://github.com/monishasundaram/VulnSight-AI)** | AI-assisted vulnerability analysis tooling |
 
 ---
 
-## github stats
+## contribution graph
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/monishasundaram?style=for-the-badge&labelColor=0d1117&color=a78bfa" alt="followers" />
-  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fmonishasundaram&query=%24.public_repos&label=public%20repos&style=for-the-badge&labelColor=0d1117&color=7c5cd6" alt="public repos" />
+  <img src="./profile-3d-contrib/profile-customize.svg" alt="3D contribution graph" width="95%" />
 </p>
 
 <p align="center">

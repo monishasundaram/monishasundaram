@@ -38,38 +38,64 @@ I'm **Monisha**, an IT undergraduate from Erode, Tamil Nadu, exploring the world
 
 ## featured projects
 
-<p align="center">
-  <a href="https://github.com/monishasundaram/CivicVoice">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=monishasundaram&repo=CivicVoice&bg_color=0d1117&title_color=c4b5fd&text_color=e9d5ff&icon_color=a78bfa&border_color=3b2f63" alt="CivicVoice" />
-  </a>
-  <a href="https://github.com/monishasundaram/PhishScan">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=monishasundaram&repo=PhishScan&bg_color=0d1117&title_color=c4b5fd&text_color=e9d5ff&icon_color=a78bfa&border_color=3b2f63" alt="PhishScan" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/monishasundaram/AI-DATABASE-ANALYST">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=monishasundaram&repo=AI-DATABASE-ANALYST&bg_color=0d1117&title_color=c4b5fd&text_color=e9d5ff&icon_color=a78bfa&border_color=3b2f63" alt="AI-DATABASE-ANALYST" />
-  </a>
-  <a href="https://github.com/monishasundaram/VulnSight-AI">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=monishasundaram&repo=VulnSight-AI&bg_color=0d1117&title_color=c4b5fd&text_color=e9d5ff&icon_color=a78bfa&border_color=3b2f63" alt="VulnSight-AI" />
-  </a>
-</p>
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### ⛓️ [CivicVoice](https://github.com/monishasundaram/CivicVoice)
+Tamper-proof, transparent complaint system built on blockchain.
+
+<img src="https://img.shields.io/github/languages/top/monishasundaram/CivicVoice?style=flat-square&labelColor=0d1117&color=a78bfa" alt="language" />
+<img src="https://img.shields.io/github/last-commit/monishasundaram/CivicVoice?style=flat-square&labelColor=0d1117&color=7c5cd6" alt="last commit" />
+<img src="https://img.shields.io/github/stars/monishasundaram/CivicVoice?style=flat-square&labelColor=0d1117&color=c4b5fd" alt="stars" />
+
+</td>
+<td width="50%" valign="top">
+
+### 🛡️ [PhishScan](https://github.com/monishasundaram/PhishScan)
+Phishing URL analyser that checks links for threats.
+
+<img src="https://img.shields.io/github/languages/top/monishasundaram/PhishScan?style=flat-square&labelColor=0d1117&color=a78bfa" alt="language" />
+<img src="https://img.shields.io/github/last-commit/monishasundaram/PhishScan?style=flat-square&labelColor=0d1117&color=7c5cd6" alt="last commit" />
+<img src="https://img.shields.io/github/stars/monishasundaram/PhishScan?style=flat-square&labelColor=0d1117&color=c4b5fd" alt="stars" />
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 [AI-DATABASE-ANALYST](https://github.com/monishasundaram/AI-DATABASE-ANALYST)
+Turns plain English into SQL for non-SQL learners.
+
+<img src="https://img.shields.io/github/languages/top/monishasundaram/AI-DATABASE-ANALYST?style=flat-square&labelColor=0d1117&color=a78bfa" alt="language" />
+<img src="https://img.shields.io/github/last-commit/monishasundaram/AI-DATABASE-ANALYST?style=flat-square&labelColor=0d1117&color=7c5cd6" alt="last commit" />
+<img src="https://img.shields.io/github/stars/monishasundaram/AI-DATABASE-ANALYST?style=flat-square&labelColor=0d1117&color=c4b5fd" alt="stars" />
+
+</td>
+<td width="50%" valign="top">
+
+### 🔍 [VulnSight-AI](https://github.com/monishasundaram/VulnSight-AI)
+AI-assisted vulnerability analysis tooling.
+
+<img src="https://img.shields.io/github/languages/top/monishasundaram/VulnSight-AI?style=flat-square&labelColor=0d1117&color=a78bfa" alt="language" />
+<img src="https://img.shields.io/github/last-commit/monishasundaram/VulnSight-AI?style=flat-square&labelColor=0d1117&color=7c5cd6" alt="last commit" />
+<img src="https://img.shields.io/github/stars/monishasundaram/VulnSight-AI?style=flat-square&labelColor=0d1117&color=c4b5fd" alt="stars" />
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## github stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=monishasundaram&show_icons=true&hide_border=true&bg_color=0d1117&title_color=c4b5fd&text_color=e9d5ff&icon_color=a78bfa&ring_color=a78bfa" alt="stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=monishasundaram&layout=compact&hide_border=true&bg_color=0d1117&title_color=c4b5fd&text_color=e9d5ff" alt="top languages" />
+  <img src="https://img.shields.io/github/followers/monishasundaram?style=for-the-badge&labelColor=0d1117&color=a78bfa" alt="followers" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fmonishasundaram&query=%24.public_repos&label=public%20repos&style=for-the-badge&labelColor=0d1117&color=7c5cd6" alt="public repos" />
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=monishasundaram&background=0D1117&ring=A78BFA&fire=C4B5FD&currStreakLabel=C4B5FD&sideLabels=C4B5FD&currStreakNum=E9D5FF&sideNums=E9D5FF&dates=A99BD6&stroke=3B2F63&border=3B2F63" alt="streak" />
-</p>
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/a78bfa/monishasundaram" alt="contribution graph" width="90%" />
 </p>
 
 ---

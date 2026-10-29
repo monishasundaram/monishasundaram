@@ -1,0 +1,9 @@
+{
+  "backgroundColor": "#0d1117",
+  "foregroundColor": "#e9d5ff",
+  "strongColor": "#c4b5fd",
+  "weakColor": "#6d5bb5",
+  "radarColor": "#a78bfa",
+  "growingAnimation": 5,
+  "contribColors": ["#1c1830", "#5b3fa0", "#8b6fe0", "#b79cf5", "#e9d5ff"]
+}

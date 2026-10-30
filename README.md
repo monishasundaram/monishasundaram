@@ -50,11 +50,11 @@ I'm **Monisha**, an IT undergraduate from Erode, Tamil Nadu, exploring the world
 ## contribution graph
 
 <p align="center">
-      <img src="https://raw.githubusercontent.com/monishasundaram/monishasundaram/main/profile-3d-contrib/lavender.svg" alt="3D contribution graph" width="95%" />
+  <img src="https://raw.githubusercontent.com/monishasundaram/monishasundaram/main/profile-3d-contrib/lavender.svg" alt="3D contribution graph" width="95%" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=monishasundaram&background=0D1117&ring=A78BFA&fire=C4B5FD&currStreakLabel=C4B5FD&sideLabels=C4B5FD&currStreakNum=E9D5FF&sideNums=E9D5FF&dates=A99BD6&stroke=3B2F63&border=3B2F63" alt="streak" />
+  <img src="https://streak-stats.demolab.com?user=monishasundaram&v=2&background=0D1117&ring=A78BFA&fire=C4B5FD&currStreakLabel=C4B5FD&sideLabels=C4B5FD&currStreakNum=E9D5FF&sideNums=E9D5FF&dates=A99BD6&stroke=3B2F63&border=3B2F63" alt="streak" />
 </p>
 
 ---
